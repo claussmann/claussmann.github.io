@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: christian.laussmann@hhu.de
     phone:
-    website:
+    website: researchgate.net/profile/Christian-Laussmann
     linkedin:
     xing:
     github: claussmann
@@ -43,13 +43,16 @@ sidebar:
       - item: Blockchain
         link:
 
+      - item: Insects
+        link:
+
 career-profile:
     title: Christian Laußmann
     summary: |
-      German researcher at [Heinrich-Heine-University](hhu.de) in Düsseldorf.
+      German researcher at [Heinrich-Heine-University](https://hhu.de) in Düsseldorf.
 
 education:
-    - degree: BSc in Computer Science
+    - degree: B.Sc. in Computer Science
       university: Heinrich-Heine-University
       time: 2017 - 2021
       details:
@@ -95,13 +98,16 @@ skills:
         level: 95%
 
       - name: C/C++
-        level: 80%
+        level: 75%
 
       - name: Powershell
-        level: 90%
+        level: 85%
 
       - name: Linux (Arch)
         level: 85%
+
+      - name: LaTex
+        level: 95%
 
 
 footer: >
