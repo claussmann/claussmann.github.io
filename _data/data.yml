@@ -92,22 +92,20 @@ skills:
 
     toolset:
       - name: Python
-        level: 70%
+        level: 90%
 
       - name: Java
-        level: 95%
+        level: 90%
 
       - name: C/C++
-        level: 75%
+        level: 70%
 
       - name: Powershell
-        level: 85%
+        level: 80%
 
       - name: Linux (Arch)
-        level: 85%
+        level: 80%
 
-      - name: LaTex
-        level: 95%
 
 
 footer: >
